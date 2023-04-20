@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=VE100 Application
+Comment=VE100 Application
+Icon=/home/pi/VE100/icon.ico
+Exec=/home/pi/VE100/dist/ve100/ve100
+Type=Application
+Encoding=UTF-8
+Terminal=false
+StartUpNotify=true
+Categories=None;
+StartupNotify=false
